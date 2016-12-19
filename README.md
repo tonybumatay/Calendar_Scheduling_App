@@ -14,3 +14,4 @@ We Complimented the boostrap framework with custom css to style our calendar. Da
 
 -Description: Each event has an associated description that is stored in the table. The description can also be edited when the event is edited. 
 
+This project was completed as part of Wash U's Rapid Prototype Development and Creative Programming course in collaboration with Tyler Reeves.
