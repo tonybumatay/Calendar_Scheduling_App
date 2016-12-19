@@ -1,0 +1,7 @@
+-Code is well formatted and easy to read, with proper commenting (2 points)
+-Safe from XSS attacks; that is, all content is escaped on output (3 points)
+-Safe from SQL Injection attacks (2 points)
+-CSRF tokens are passed when editing or removing events (3 points)
+-Session cookie is HTTP-Only (3 points)
+-Page passes the W3C validator (2 points)
+-Extra Credit: Your code passes JSHint or JSLint (+3 bonus points)

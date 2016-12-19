@@ -1,0 +1,9 @@
+addeventlistener(input)
+
+
+Calendar Questions
+Can we use html templates?
+From month view, do we need to see the events of each day?
+Can we use modal to see day's events and add events?
+Check database logic.
+if createaccount insertion doesn't work, what do we want to do
